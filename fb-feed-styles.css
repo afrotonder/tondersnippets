@@ -1,0 +1,45 @@
+/*********************** FACEBOOK FEED STYLES **********************/
+        #fb-feed {
+            z-index: 3 ;
+            left: 0 ;
+            bottom: 0 ;
+            position: fixed!important;
+        }
+        /*fb-feed open/close container*/
+        #fb-feed-options {
+            padding-left: 1em;
+            background-color: white ;
+            border-style: solid ;
+            position: relative !important; 
+            height: 3em ; 
+            width: 2em;
+            left: 0 ;
+            top: 0 !important ;
+            border-bottom-right-radius: 30% ; 
+            border-top-right-radius: 30% ;
+        }
+        #fb-feed-options:hover {
+            border-width: 1px ;
+            border-color:black ;
+        }
+        /*fb-feed open/close icon*/
+        #fb-open-close { 
+            color: greenyellow !important; 
+            margin: -10px 0 0 -15px ;
+        }
+         /* fb-feed script provided by fb */
+        .fb-page {
+            bottom: 0;
+            left: 0;
+        }            
+/*********************** FACEBOOK FEED STYLES ***********************/
+
+
+/*small screens*/ 
+@media screen and (min-width:0px) and (max-width: 699px) {
+/* THIS HIDES FACEBOOK FEED IN SMALL SCREENS */
+     #fb-feed {
+        visibility: hidden ;
+        display: none ;
+    }
+}
