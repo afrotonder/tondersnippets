@@ -8,7 +8,7 @@ left corner of the website and also have the option to hide/re-open it when clic
 
 # How it currenly looks
 
-![feed closed]('https://drive.google.com/uc?export=view&id=1ZE2eh4fDCMfX7ockdJkOwntJdOAQrL8v') 
+![feed closed](https://drive.google.com/uc?export=view&id=1ZE2eh4fDCMfX7ockdJkOwntJdOAQrL8v  =100x20) 
 
 ## Files in directory
 
