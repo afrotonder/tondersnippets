@@ -8,7 +8,7 @@ left corner of the website and also have the option to hide/re-open it when clic
 
 # How it currenly looks
 
-![toggle open]()
+![toggle open](https://drive.google.com/file/d/1ZE2eh4fDCMfX7ockdJkOwntJdOAQrL8v/view?usp=sharing)
 ![toggle closed]()
 ![toggle open-hover]()
 
