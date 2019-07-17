@@ -55,4 +55,5 @@ Hopefully you have a working open/close mechanism for your feed.
 
 # References
 
-Visit the [official facebook feed plugin page](https://developers.facebook.com/docs/plugins/page-plugin/) for more.
+Visit the <a href="https://developers.facebook.com/docs/plugins/page-plugin/" target="_blank">official facebook feed plugin page</a>
+for more.
