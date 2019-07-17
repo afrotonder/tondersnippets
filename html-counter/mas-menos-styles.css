@@ -1,0 +1,87 @@
+    /*small screens*/ 
+    @media screen and (min-width:0px) and (max-width: 699px) {
+
+     
+        input[type=number]::-webkit-inner-spin-button, 
+        input[type=number]::-webkit-outer-spin-button { 
+          -webkit-appearance: none; 
+          margin: 0; 
+        }
+
+        .account-counter {
+            margin-top: 2em ;
+        }
+
+        .counter {
+            height: 3.5em ;
+            width: 3.5em ;
+        }
+
+         .input-group-field {
+            margin-left: 2em ;
+            margin-right: 2em ;
+            text-align: center;
+         }
+
+        #button {
+            border-radius: 50% ;
+            border: none ;  
+        }       
+
+    }
+    /*medium screens*/ 
+    @media screen and (min-width:700px)  and (max-width: 1760px) {
+
+        .account-counter {
+            width: 100% ;
+        }
+        .input-group-field {
+            width: 6%;
+            margin-left: 18px;
+            margin-right: 18px;
+            text-align: center;
+            font-size: 18px ;
+        }
+
+        .counter {
+              height: 3em ;
+            width: 3em ;
+        }
+        
+        #button {
+            border-radius: 50%;
+            border: none;
+        } 
+
+    }
+    /*large screens*/
+    @media screen and (min-width:1761px ) and (max-width: 2560px) {   
+
+        .account-counter {
+            grid-column: 2/2;
+        }
+
+        .input-group-field {
+            width: 6% ;
+            margin-left: 10px ;
+            margin-right: 10px ;
+            text-align: center;
+        }
+
+        #button {
+            border-radius: 50% ;
+            border: none ;  
+        }
+
+
+        input[type=number]::-webkit-inner-spin-button, 
+        input[type=number]::-webkit-outer-spin-button { 
+          -webkit-appearance: none; 
+          margin: 0; 
+        }
+
+        .counter {
+            height: 2.5em ;
+            width: 2.5em ;
+        }
+    }
