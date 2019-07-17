@@ -8,7 +8,7 @@ left corner of the website and also have the option to hide/re-open it when clic
 
 # How it currenly looks
 
-<img width='100em' height='75m' src='https://drive.google.com/uc?export=view&id=1ZE2eh4fDCMfX7ockdJkOwntJdOAQrL8v'> img </img>
+<img width='30%' height='200em' src='https://drive.google.com/uc?export=view&id=1ZE2eh4fDCMfX7ockdJkOwntJdOAQrL8v'> img </img>
 
 ## Files in directory
 
