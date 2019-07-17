@@ -10,11 +10,11 @@ left corner of the website and also have the option to hide/re-open it when clic
 # How it currenly looks
 
 <div style='display: flex; width:100%; text-align:center; justify-content: space-between ;'>
-  <div style='width:35%;'>
+  <div style='width:30%;'>
     <img height='250em' src='https://drive.google.com/uc?export=view&id=1RzpCDezA8DvY5LfgPTGaNcbZr_Ens0QU'/>
     <p> facebook feed open @bottom-left </p>
   </div>
-  <div style='width: 35%;'>
+  <div style='width: 30%;'>
     <img height='250em' src='https://drive.google.com/uc?export=view&id=15vYEms5mL4svbOSU2eUzJ16vIP2fWFGz'/>
     <p> facebook feed closed-hover @left</p>
   </div>
