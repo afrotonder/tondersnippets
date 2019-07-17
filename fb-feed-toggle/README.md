@@ -10,7 +10,7 @@ left corner of the website and also have the option to hide/re-open it when clic
 # How it currenly looks
 
 <div style='display: flex; width:100%; text-align:center; justify-content: space-between ;'>
-  <div style='width:30%;'>
+  <div style='width:10%;'>
     <img height='250em' src='https://drive.google.com/uc?export=view&id=1RzpCDezA8DvY5LfgPTGaNcbZr_Ens0QU'/>
     <p> facebook feed open @bottom-left </p>
   </div>
