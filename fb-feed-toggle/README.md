@@ -7,11 +7,7 @@ This plugin is simple and is meant to be somewhere staticaly placed. I needed th
 left corner of the website and also have the option to hide/re-open it when clicking a button. That need became this directory.
 
 # How it currenly looks
-
-![toggle open](https://drive.google.com/uc?export=view&id=1ZE2eh4fDCMfX7ockdJkOwntJdOAQrL8v)
-![toggle closed]()
-![toggle open-hover]()
-
+<img src='https://drive.google.com/uc?export=view&id=1ZE2eh4fDCMfX7ockdJkOwntJdOAQrL8v'>feed closed</img>
 
 
 ## Files in directory
