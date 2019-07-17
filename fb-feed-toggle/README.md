@@ -7,8 +7,8 @@ This plugin is simple and is meant to be somewhere staticaly placed. I needed th
 left corner of the website and also have the option to hide/re-open it when clicking a button. That need became this directory.
 
 # How it currenly looks
-<img style='height: 1em; width:2em;' src='https://drive.google.com/uc?export=view&id=1ZE2eh4fDCMfX7ockdJkOwntJdOAQrL8v'>feed closed</img>
 
+![feed closed]('https://drive.google.com/uc?export=view&id=1ZE2eh4fDCMfX7ockdJkOwntJdOAQrL8v' =100x20) 
 
 ## Files in directory
 
